@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https//cishocksr.github.io/monsters-rolodex/static/css/main.d30e4220.chunk.css",
+    "main.js": "https//cishocksr.github.io/monsters-rolodex/static/js/main.3d81d4ff.chunk.js",
+    "main.js.map": "https//cishocksr.github.io/monsters-rolodex/static/js/main.3d81d4ff.chunk.js.map",
+    "runtime-main.js": "https//cishocksr.github.io/monsters-rolodex/static/js/runtime-main.9eb4c34d.js",
+    "runtime-main.js.map": "https//cishocksr.github.io/monsters-rolodex/static/js/runtime-main.9eb4c34d.js.map",
+    "static/js/2.5905bb17.chunk.js": "https//cishocksr.github.io/monsters-rolodex/static/js/2.5905bb17.chunk.js",
+    "static/js/2.5905bb17.chunk.js.map": "https//cishocksr.github.io/monsters-rolodex/static/js/2.5905bb17.chunk.js.map",
+    "index.html": "https//cishocksr.github.io/monsters-rolodex/index.html",
+    "precache-manifest.6e4365e71d14ee15a4605b631127f388.js": "https//cishocksr.github.io/monsters-rolodex/precache-manifest.6e4365e71d14ee15a4605b631127f388.js",
+    "service-worker.js": "https//cishocksr.github.io/monsters-rolodex/service-worker.js",
+    "static/css/main.d30e4220.chunk.css.map": "https//cishocksr.github.io/monsters-rolodex/static/css/main.d30e4220.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9eb4c34d.js",
+    "static/js/2.5905bb17.chunk.js",
+    "static/css/main.d30e4220.chunk.css",
+    "static/js/main.3d81d4ff.chunk.js"
+  ]
+}
